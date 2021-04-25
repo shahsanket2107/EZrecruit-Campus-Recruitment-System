@@ -5,7 +5,7 @@ EZrecruit is a project which provides an easy way for the company to hire candid
 ## PROJECT MODULES :-
 -	Admin
 -	Company
--	User(Candidates/ Students)
+-	User(Candidates/ Students) 
 
 ## Features incorporated by different modules :-
 
