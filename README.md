@@ -1,4 +1,4 @@
-# EZrecruit-Campus-Recruitment-System
+### EZrecruit-Campus-Recruitment-System
 
 EZrecruit is a project which provides an easy way for the company to hire candidates and also provides the facility for candidates to apply for different jobs. Company can view the applicants for the desired job post , see their profile and resume and also accept/reject them. Users can view all available jobs and apply for them. They can also see their application status. 
 
@@ -7,7 +7,7 @@ EZrecruit is a project which provides an easy way for the company to hire candid
 -	Company
 -	User(Candidates/ Students)
 
-Features incorporated by different modules :-
+### Features incorporated by different modules :-
 
 ## Admin:
 -	Dashboard: In this section, admin can see all detail in brief like Total Company Registered, Total User (Candidates) Registered and Total Vacancy Listed.
