@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Apr 27, 2021 at 06:45 PM
+-- Generation Time: Apr 27, 2021 at 06:55 PM
 -- Server version: 10.4.18-MariaDB
 -- PHP Version: 8.0.3
 
@@ -91,7 +91,8 @@ INSERT INTO `company` (`id_company`, `companyname`, `headofficecity`, `contactno
 (8, 'Amazon', 'Mumbai', '3333333333', 'amazon.com', 'MNC', 'career@amazon.com', 'YzM3ODFiNzJmNzQ1ZTNiZDRmNmJkYjZlOTA4NGQwZDI=', '2021-04-17 10:26:59'),
 (9, 'Facebook', 'Ahmedabad', '5555555555', 'facebook.com', 'Social Networking', 'career@facebook.com', 'OTVhMDRkNmQ5MWU4ZjBhN2EwODEyM2M4MTc3ZWFjNjI=', '2021-04-17 10:28:15'),
 (10, 'Apple', 'New York', '2222222222', 'apple.com', 'MNC', 'career@apple.com', 'Zjc1OTgyNzZjMGExM2UzYjk0YzZmNDcyZWIwNzgzZjE=', '2021-04-17 10:29:28'),
-(11, 'Netflix', 'California', '1111111111', 'netflix.com', 'Digital Media', 'career@netflix.com', 'OTMzYmEwNDY0NzY4OWYzNjA4N2YyNThmYmQzMDZjMTI=', '2021-04-17 10:30:29');
+(11, 'Netflix', 'California', '1111111111', 'netflix.com', 'Digital Media', 'career@netflix.com', 'OTMzYmEwNDY0NzY4OWYzNjA4N2YyNThmYmQzMDZjMTI=', '2021-04-17 10:30:29'),
+(12, 'GNB', 'NY', '9999999999', 'barneyisawesome.com', 'banking', 'gnb@gnb.com', 'OWEwMWIyYTJlMGJlOTg1ZmNmMDkyODUyYzZhZGQzYWY=', '2021-04-27 16:54:50');
 
 -- --------------------------------------------------------
 
@@ -218,7 +219,7 @@ ALTER TABLE `apply_job_post`
 -- AUTO_INCREMENT for table `company`
 --
 ALTER TABLE `company`
-  MODIFY `id_company` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
+  MODIFY `id_company` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
 
 --
 -- AUTO_INCREMENT for table `job_post`
